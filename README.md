@@ -35,3 +35,7 @@ Aqui estaran los Comandos de GitHub vistos en clase
 ---> git remote -v
 ```
 
+### Añadimos el archivo para el commit.
+```
+---> git add <archivo>
+```
