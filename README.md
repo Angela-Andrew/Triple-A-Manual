@@ -25,3 +25,13 @@ Aqui estaran los Comandos de GitHub vistos en clase
 ---> git clone url
 ```
 
+### Lista un estado actual del repositorio con lista de archivos modificados o agregados.
+```
+---> git status
+```
+
+### Muestra lista repositorios.
+```
+---> git remote -v
+```
+
