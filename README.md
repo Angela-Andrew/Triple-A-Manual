@@ -2,5 +2,6 @@
 
 # Comandos de GitHub
 
-## Iniciamos GIT en la carpeta donde esta el proyecto.
-### ---> git init
+> Iniciamos GIT en la carpeta donde esta el proyecto.
+> 
+> ---> git init
