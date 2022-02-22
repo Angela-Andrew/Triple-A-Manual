@@ -1,3 +1,6 @@
 # Triple-A-Manual
 
-## Lista de Comandos vistos en clase
+# Comandos de GitHub
+
+## Iniciamos GIT en la carpeta donde esta el proyecto.
+### ---> git init
