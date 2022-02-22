@@ -6,14 +6,10 @@
 > 
 > ---> git init
 
-> Añadimos todos los archivos para el commit.
-> 
-> ---> git add .
 
-> Hacemos el primer commit.
-> 
-> ---> git commit -m "Texto que identifique por que se hizo el commit"
+> **Git Clone**
+```
+git clone url
+```
+Con este comando clonamos en nuestra computadora un proyecto o repositorio, sustituyendo el link en el url
 
-> Subimos al repositorio.
-> 
-> ---> git push origin master
